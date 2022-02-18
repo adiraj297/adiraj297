@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys working on Frontend web applications :computer:
  <br/>
 🔭 I’m currently working on: SFMC Interaction studio implementations for e-commerce websites <br/>
-🛠 My current skillset includes: 
-&nbsp;- Programming Languages: Javascript(ES6), jQuery, TypeScript, AMPscript, Java, SQL, Python.
-&nbsp;- Frontend: ReactJS, HTML, CSS, Bootstrap.
-&nbsp;- Cloud technologies: AWS, SFMC, Google cloud platform, Firebase, IoT, Netlify, Heroku.
-&nbsp;- Testing Framework: Jest(TDD).
-&nbsp;- Agile collaboration tools: CI/CD workflows, GitHub, BitBucket, JIRA, Trello.
-🌱 I’m currently learning: Node.js
+🛠 My current skillset includes:  <br/>
+&nbsp;- Programming Languages: Javascript(ES6), jQuery, TypeScript, AMPscript, Java, SQL, Python. <br/>
+&nbsp;- Frontend: ReactJS, HTML, CSS, Bootstrap. <br/>
+&nbsp;- Cloud technologies: AWS, SFMC, Google cloud platform, Firebase, IoT, Netlify, Heroku. <br/>
+&nbsp;- Testing Framework: Jest(TDD). <br/>
+&nbsp;- Agile collaboration tools: CI/CD workflows, GitHub, BitBucket, JIRA, Trello. <br/>
+🌱 I’m currently learning: Node.js <br/>
 📫 Let's connect <br/>
 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/adityaraj97/) <br/>
 Portfolio: [Website](https://aditya-raj-portfolio.netlify.app/)
