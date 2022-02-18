@@ -30,7 +30,7 @@ I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys wor
 &nbsp;- Cloud technologies: AWS, SFMC, Google cloud platform, Firebase, IoT, Netlify, Heroku. <br/>
 &nbsp;- Testing Framework: Jest(TDD). <br/>
 &nbsp;- Databases: MySQL. <br/>
-&nbsp;- Agile collaboration tools: CI/CD workflows, GitHub, BitBucket, JIRA, Trello. <br/>
+&nbsp;- Agile collaboration tools: CI/CD workflows, GitHub, BitBucket, JIRA, Confluence, Trello. <br/>
  <br/>
 🌱 I’m currently learning: Node.js <br/>
  <br/>
