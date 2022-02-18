@@ -35,6 +35,7 @@ I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys wor
 🌱 I’m currently learning: Node.js <br/>
  <br/>
 📫 Let's connect - <br/>
+<br/>
 &nbsp;&nbsp;LinkedIn: [Aditya Raj](https://www.linkedin.com/in/adityaraj97/) <br/>
 &nbsp;&nbsp;Portfolio: [Website](https://aditya-raj-portfolio.netlify.app/)
 
