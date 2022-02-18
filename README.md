@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-I'm a developer 👨‍💻 from Melbourne, Australia who enjoys working on Frontend web applications :computer:
+I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys working on Frontend web applications :computer:
  <br/>
 🔭 I’m currently working on: SFMC Interaction studio implementations for e-commerce websites <br/>
 🛠 My current skillset includes: 
