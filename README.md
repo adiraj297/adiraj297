@@ -33,8 +33,6 @@ I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys wor
 &nbsp;- Databases: MySQL, MongoDB <br/>
 &nbsp;- Agile collaboration tools: CI/CD workflows, GitHub, BitBucket, JIRA, Confluence, Trello. <br/>
  <br/>
-🌱 I’m currently learning: Node.js <br/>
- <br/>
 📫 Let's connect - <br/>
 <br/>
 &nbsp;&nbsp;LinkedIn: [Aditya Raj](https://www.linkedin.com/in/adityaraj97/) <br/>
