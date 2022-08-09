@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 I'm Aditya, a web developer 👨‍💻 from Melbourne, Australia who enjoys working on Frontend web applications :computer: <br/>
   <br/>
 <!--  </p> -->
-💼 I currently work at: Lexicon, Melbourne.  <br/>
- <br/>
 🔭 I’m currently working on: Auth systems <br/>
  <br/>
 🛠 My current skillset includes:  <br/>
