@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!-- <p align="center"> -->
 I'm Aditya, a full-stack developer 👨‍💻 from Brisbane, Australia who enjoys working acoss client facing applications :computer: 
  <br/>
-📫 Let's connect - <br/>
-<br/>
+📫 Let's connect - 
 &nbsp;&nbsp;LinkedIn: [Aditya Raj](https://www.linkedin.com/in/adityaraj97/) <br/>
 
 
