@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <p align="center"> -->
-Hi there ! I'm Aditya, a full-stack developer 👨‍💻 from Brisbane, Australia who enjoys working acoss client facing applications :computer: 
+I'm Aditya, a full-stack developer 👨‍💻 from Brisbane, Australia who enjoys working acoss client facing applications :computer: 
 <!--  </p> -->
  <br/>
 🛠 My current skillset includes:  <br/>
