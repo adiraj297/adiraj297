@@ -21,16 +21,16 @@ I'm Aditya, a full-stack developer 👨‍💻 from Brisbane, Australia who enjo
  <br/>
 🛠 My current skillset includes:  <br/>
  <br/>
-&nbsp;- Programming Languages: TypeScript, Kotlin, C#, Java, Groovy, Python, AMPscript. <br/>
-&nbsp;- Front-end frameworks: ReactJS, NextJS, Material-UI, Tailwind css, Bootstrap. <br/>
-&nbsp;- State management libraries: Redux, Context api <br/>
-&nbsp;- Backend frameworks: Dropwizard, .NET, Node.js(Express, NestJS). <br/>
-&nbsp;- Databases: MongoDB, MySQL, PostgreSQL. <br/>
-&nbsp;- Message brokers: RabbitMQ, Apache kafka. <br/>
-&nbsp;- Testing frameworks: Jest(RTL, Enzyme, Puppeteer), JUnit, Mockito, xUnit, Moq. <br/>
-&nbsp;- Monitoring tools: Kibana(Elastic search), Kpow for Kafka <br/>
-&nbsp;- Cloud: Netlify, GCP, AWS, Firebase, SFMC, IoT, Heroku. <br/>
-&nbsp;- Agile collaboration tools: GitHub, BitBucket, JIRA, Miro, Confluence, Trello, GitKraken Boards and timelines. <br/>
+ Programming Languages - TypeScript, Kotlin, C#, Java, Groovy, Python, AMPscript. <br/>
+ Front-end frameworks - ReactJS, NextJS, Material-UI, Tailwind css, Bootstrap. <br/>
+ State management libraries - Redux, Context api <br/>
+ Backend frameworks - Dropwizard, .NET, Node.js(Express, NestJS). <br/>
+ Databases - MongoDB, MySQL, PostgreSQL. <br/>
+ Message brokers - RabbitMQ, Apache kafka. <br/>
+ Testing frameworks - Jest(RTL, Enzyme, Puppeteer), JUnit, Mockito, xUnit, Moq. <br/>
+ Monitoring tools - Kibana(Elastic search), Kpow for Kafka <br/>
+ Cloud - Netlify, GCP, AWS, Firebase, SFMC, IoT, Heroku. <br/>
+ Agile collaboration tools- GitHub, BitBucket, JIRA, Miro, Confluence, Trello, GitKraken Boards and timelines. <br/>
 
  <br/>
  
