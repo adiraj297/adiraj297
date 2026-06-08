@@ -1,0 +1,139 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Header ── */
+.header {
+  background: linear-gradient(135deg, #1e293b 0%, #0f4c2a 100%);
+  color: white;
+  padding: 0 24px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 0;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+}
+
+.header-flag {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.header-title h1 {
+  font-size: 24px;
+  font-weight: 800;
+  color: white;
+  letter-spacing: -0.5px;
+}
+
+.header-title p {
+  font-size: 13px;
+  color: rgba(255,255,255,0.65);
+  margin-top: 2px;
+}
+
+.search-input {
+  background: rgba(255,255,255,0.12);
+  border: 1.5px solid rgba(255,255,255,0.2);
+  border-radius: 10px;
+  padding: 10px 16px;
+  color: white;
+  font-size: 14px;
+  font-family: inherit;
+  outline: none;
+  width: 220px;
+  transition: all 0.2s ease;
+}
+
+.search-input::placeholder {
+  color: rgba(255,255,255,0.45);
+}
+
+.search-input:focus {
+  background: rgba(255,255,255,0.18);
+  border-color: rgba(255,255,255,0.4);
+}
+
+/* ── Main ── */
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 20px 40px;
+  width: 100%;
+  flex: 1;
+}
+
+/* ── Results info ── */
+.results-info {
+  font-size: 13px;
+  color: #64748b;
+  font-weight: 500;
+  margin-bottom: 16px;
+  padding: 0 2px;
+}
+
+/* ── Grid ── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 80px 20px;
+  color: #94a3b8;
+}
+
+.empty-state span {
+  display: block;
+  font-size: 56px;
+  margin-bottom: 16px;
+}
+
+.empty-state p {
+  font-size: 16px;
+}
+
+/* ── Footer ── */
+.footer {
+  background: #1e293b;
+  color: rgba(255,255,255,0.55);
+  text-align: center;
+  padding: 16px 20px;
+  font-size: 13px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .header-inner {
+    gap: 12px;
+  }
+
+  .search-input {
+    width: 100%;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

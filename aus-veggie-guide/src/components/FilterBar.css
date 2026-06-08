@@ -1,0 +1,58 @@
+.filter-bar {
+  background: white;
+  border-radius: 16px;
+  padding: 20px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.filter-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #64748b;
+}
+
+.filter-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.pill {
+  border: 1.5px solid #e2e8f0;
+  background: #f8fafc;
+  border-radius: 100px;
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  color: #475569;
+  white-space: nowrap;
+}
+
+.pill:hover {
+  border-color: #94a3b8;
+  background: #f1f5f9;
+}
+
+.pill.active {
+  background: #1e293b;
+  border-color: #1e293b;
+  color: white;
+}
+
+.season-pill.active {
+  color: white;
+}
