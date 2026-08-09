@@ -35,8 +35,7 @@ I'm Aditya, a full-stack developer 👨‍💻 from Brisbane, Australia who enjo
  <br/>
  
  <br/>
-📫 Let's connect - 
-&nbsp;&nbsp;LinkedIn: [Aditya Raj](https://www.linkedin.com/in/adityaraj97/) <br/>
+
 
 
 
